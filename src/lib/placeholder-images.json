@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "dev-profile",
+      "description": "Developer profile picture",
+      "imageUrl": "https://png.pngtree.com/png-clipart/20231109/original/pngtree-programmer-it-developer-png-image_13520483.png",
+      "imageHint": "programmer developer"
+    },
+    {
+      "id": "project-1",
+      "description": "Abstract code visualization",
+      "imageUrl": "https://images.unsplash.com/photo-1550438496-8c6e269e7886?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxhYnN0cmFjdCUyMGNvZGV8ZW58MHx8fHwxNzYyMzkzMTQwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract code"
+    },
+    {
+      "id": "project-2",
+      "description": "Futuristic UI dashboard",
+      "imageUrl": "https://images.unsplash.com/photo-1748366465774-aaa2160fe78d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZnV0dXJpc3RpYyUyMGRhc2hib2FyZHxlbnwwfHx8fDE3NjIzNzQyOTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "futuristic dashboard"
+    },
+    {
+      "id": "project-3",
+      "description": "Glowing neural network",
+      "imageUrl": "https://images.unsplash.com/photo-1702368198452-d89194714d70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxnbG93aW5nJTIwbmV0d29ya3xlbnwwfHx8fDE3NjI0MDMwNjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "glowing network"
+    },
+    {
+      "id": "project-4",
+      "description": "Data analysis visualization",
+      "imageUrl": "https://images.unsplash.com/photo-1644088379091-d574269d422f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxkYXRhJTIwdmlzdWFsaXphdGlvbnxlbnwwfHx8fDE3NjI0MjE2MjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "data visualization"
+    },
+    {
+      "id": "dev-cartoon",
+      "description": "Cartoon of a developer working",
+      "imageUrl": "https://images.unsplash.com/photo-1626766234244-8bfa605e0cb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxkZXZlbG9wZXIlMjBjYXJ0b29ufGVufDB8fHx8MTc2MjQ1MTM5M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "developer cartoon"
+    }
+  ]
+}
